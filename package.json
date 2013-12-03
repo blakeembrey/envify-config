@@ -1,0 +1,28 @@
+{
+  "name": "envify-config",
+  "version": "0.0.0",
+  "description": "Browserify transform for replacing process.env variables with the config module settings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blakeembrey/envify-config"
+  },
+  "keywords": [
+    "envify",
+    "config",
+    "node-config"
+  ],
+  "author": "Blake Embrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakeembrey/envify-config/issues"
+  },
+  "homepage": "https://github.com/blakeembrey/envify-config",
+  "dependencies": {
+    "envify": "~0.2.0",
+    "config": "~0.4.33"
+  }
+}
