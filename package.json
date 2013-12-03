@@ -1,6 +1,6 @@
 {
   "name": "envify-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Browserify transform for replacing process.env variables with the config module settings.",
   "main": "index.js",
   "scripts": {
