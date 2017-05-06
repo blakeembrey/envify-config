@@ -1,5 +1,7 @@
 # envify-config
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/envify-config.svg)](https://greenkeeper.io/)
+
 A simple module that combines the [envify](https://npmjs.org/package/envify) and [config](https://npmjs.org/package/config) modules for Browserify process configuration.
 
 ## Why?
